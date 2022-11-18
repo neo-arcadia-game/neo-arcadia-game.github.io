@@ -637,3 +637,19 @@ section3 {
     bottom: 40px;
   }
 }
+
+.codehtml p{
+  position: relative;; 
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 40px;
+  text-align: left;
+  letter-spacing: 0.07em;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin-right:100px;
+  margin-left:100px;
+
+}
